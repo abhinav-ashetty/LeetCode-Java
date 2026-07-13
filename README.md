@@ -14,6 +14,7 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
@@ -24,6 +25,7 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
@@ -33,4 +35,8 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0217-contains-duplicate) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
