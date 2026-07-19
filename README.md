@@ -7,6 +7,7 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0152-maximum-product-subarray) |
@@ -53,6 +54,7 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
