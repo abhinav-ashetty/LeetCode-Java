@@ -7,6 +7,7 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -46,6 +47,7 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0217-contains-duplicate) |
 ## String
 |  |
@@ -61,4 +63,8 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
