@@ -73,4 +73,12 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0371-sum-of-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
