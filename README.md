@@ -81,4 +81,20 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0371-sum-of-two-integers) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
