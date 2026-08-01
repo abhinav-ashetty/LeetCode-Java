@@ -16,6 +16,7 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0238-product-of-array-except-self) |
+| [0486-predict-the-winner](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0486-predict-the-winner) |
 | [0904-fruit-into-baskets](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -46,6 +47,7 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 | [0053-maximum-subarray](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0152-maximum-product-subarray) |
+| [0486-predict-the-winner](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0486-predict-the-winner) |
 ## Sorting
 |  |
 | ------- |
@@ -81,6 +83,7 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0371-sum-of-two-integers) |
+| [0486-predict-the-winner](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0486-predict-the-winner) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -113,4 +116,12 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
