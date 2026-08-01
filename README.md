@@ -39,6 +39,7 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0904-fruit-into-baskets](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0904-fruit-into-baskets) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,10 +51,12 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 | ------- |
 | [0015-3sum](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0217-contains-duplicate) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,6 +76,7 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0011-container-with-most-water) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
 | ------- |
@@ -105,4 +109,8 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 | [0094-binary-tree-inorder-traversal](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0145-binary-tree-postorder-traversal) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
