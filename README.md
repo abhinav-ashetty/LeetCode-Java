@@ -20,6 +20,7 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 | [0904-fruit-into-baskets](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3731-find-missing-elements](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 | [0217-contains-duplicate](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0904-fruit-into-baskets](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0904-fruit-into-baskets) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,6 +56,7 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 | [0015-3sum](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
