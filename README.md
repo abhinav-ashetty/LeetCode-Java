@@ -17,6 +17,7 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 | [0217-contains-duplicate](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0486-predict-the-winner) |
+| [0704-binary-search](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -67,6 +68,7 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0704-binary-search](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
