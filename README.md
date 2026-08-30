@@ -12,6 +12,7 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 | [0033-search-in-rotated-sorted-array](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -56,6 +57,7 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/3731-find-missing-elements) |
@@ -81,6 +83,7 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
 | ------- |
