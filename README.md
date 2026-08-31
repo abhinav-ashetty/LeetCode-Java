@@ -65,6 +65,7 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
@@ -88,6 +89,7 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
@@ -104,6 +106,7 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 | [0094-binary-tree-inorder-traversal](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Tree
 |  |
 | ------- |
@@ -154,4 +157,8 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0543-diameter-of-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
