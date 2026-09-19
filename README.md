@@ -14,6 +14,7 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 | [0053-maximum-subarray](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0217-contains-duplicate) |
@@ -42,6 +43,7 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 | ------- |
 | [0001-two-sum](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0904-fruit-into-baskets](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0904-fruit-into-baskets) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -161,4 +163,8 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
