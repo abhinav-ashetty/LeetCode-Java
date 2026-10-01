@@ -20,6 +20,7 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 | [0217-contains-duplicate](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0486-predict-the-winner) |
+| [0525-contiguous-array](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0904-fruit-into-baskets) |
@@ -37,6 +38,7 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -47,6 +49,7 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0217-contains-duplicate) |
+| [0525-contiguous-array](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0904-fruit-into-baskets) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
