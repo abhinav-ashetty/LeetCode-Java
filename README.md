@@ -23,6 +23,7 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 | [0525-contiguous-array](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -114,6 +115,7 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 | [0094-binary-tree-inorder-traversal](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0739-daily-temperatures](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Tree
 |  |
@@ -173,4 +175,8 @@ Java solutions to LeetCode problems with clean code and optimized approaches.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0128-longest-consecutive-sequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/abhinav-ashetty/LeetCode-Java/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
